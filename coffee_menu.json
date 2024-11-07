@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "description": "Strong and bold coffee shot.",
+        "price": 3.00,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Latte",
+        "description": "Smooth coffee with steamed milk.",
+        "price": 4.00,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Caff%C3%A8_latte_as_being_served_at_Kaffebrenneriet_Torshov%2C_Oslo%2C_Norway_2_600x600_100KB.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cappuccino",
+        "description": "Coffee with foamed milk and cocoa.",
+        "price": 4.50,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Americano",
+        "description": "Espresso diluted with hot water.",
+        "price": 3.50,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hokitika_Cheese_and_Deli%2C_Hokitika_%283526706594%29.jpg/800px-Hokitika_Cheese_and_Deli%2C_Hokitika_%283526706594%29.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Macchiato",
+        "description": "Espresso with a dollop of foamed milk.",
+        "price": 3.75,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Macchiato_FourBarrel.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mocha",
+        "description": "Espresso with chocolate and steamed milk.",
+        "price": 4.75,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mocha_coffee.jpg/800px-Mocha_coffee.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Flat White",
+        "description": "Smooth blend of espresso and steamed milk.",
+        "price": 4.25,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flat_white_coffee_with_pretty_feather_pattern.jpg/800px-Flat_white_coffee_with_pretty_feather_pattern.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Iced Coffee",
+        "description": "Cold-brewed coffee served with ice.",
+        "price": 3.25,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg/800px-Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Affogato",
+        "description": "Espresso poured over vanilla ice cream.",
+        "price": 5.00,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vinoteca%2C_Smithfield%2C_London_%284485849609%29.jpg/1024px-Vinoteca%2C_Smithfield%2C_London_%284485849609%29.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Irish Coffee",
+        "description": "Coffee mixed with Irish whiskey and cream.",
+        "price": 6.00,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Irish_coffee_glass.jpg/800px-Irish_coffee_glass.jpg"
+    }
+]
